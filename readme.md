@@ -1,4 +1,3 @@
 Software Engineering Lab 3
 
-Run the following command to run the program:
-```make run```
+Enjoy a simple calculator... its pretty basic, and mostly boring. But it works!
